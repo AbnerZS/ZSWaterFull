@@ -15,6 +15,7 @@
 		39D5745B1DD1ABB80098C2D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39D574591DD1ABB80098C2D1 /* LaunchScreen.storyboard */; };
 		39D574661DD1ABB80098C2D1 /* ZSWaterFullTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 39D574651DD1ABB80098C2D1 /* ZSWaterFullTests.m */; };
 		39D574711DD1ABB80098C2D1 /* ZSWaterFullUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 39D574701DD1ABB80098C2D1 /* ZSWaterFullUITests.m */; };
+		39D574801DD1ABEE0098C2D1 /* ZSWaterfullLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 39D5747F1DD1ABEE0098C2D1 /* ZSWaterfullLayout.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		39D5746C1DD1ABB80098C2D1 /* ZSWaterFullUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZSWaterFullUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		39D574701DD1ABB80098C2D1 /* ZSWaterFullUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZSWaterFullUITests.m; sourceTree = "<group>"; };
 		39D574721DD1ABB80098C2D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39D5747E1DD1ABEE0098C2D1 /* ZSWaterfullLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZSWaterfullLayout.h; sourceTree = "<group>"; };
+		39D5747F1DD1ABEE0098C2D1 /* ZSWaterfullLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZSWaterfullLayout.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				39D5744F1DD1ABB80098C2D1 /* AppDelegate.m */,
 				39D574511DD1ABB80098C2D1 /* ViewController.h */,
 				39D574521DD1ABB80098C2D1 /* ViewController.m */,
+				39D5747E1DD1ABEE0098C2D1 /* ZSWaterfullLayout.h */,
+				39D5747F1DD1ABEE0098C2D1 /* ZSWaterfullLayout.m */,
 				39D574541DD1ABB80098C2D1 /* Main.storyboard */,
 				39D574571DD1ABB80098C2D1 /* Assets.xcassets */,
 				39D574591DD1ABB80098C2D1 /* LaunchScreen.storyboard */,
@@ -279,6 +284,7 @@
 				39D574531DD1ABB80098C2D1 /* ViewController.m in Sources */,
 				39D574501DD1ABB80098C2D1 /* AppDelegate.m in Sources */,
 				39D5744D1DD1ABB80098C2D1 /* main.m in Sources */,
+				39D574801DD1ABEE0098C2D1 /* ZSWaterfullLayout.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
